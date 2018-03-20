@@ -1,0 +1,13 @@
+D:\CUITTemp\LogBug\LogBug\LogBug\bin\Debug\LogBug.exe.config
+D:\CUITTemp\LogBug\LogBug\LogBug\obj\Debug\LogBug.csprojResolveAssemblyReference.cache
+D:\CUITTemp\LogBug\LogBug\LogBug\bin\Debug\LogBug.exe
+D:\CUITTemp\LogBug\LogBug\LogBug\bin\Debug\LogBug.pdb
+D:\CUITTemp\LogBug\LogBug\LogBug\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+D:\CUITTemp\LogBug\LogBug\LogBug\bin\Debug\Newtonsoft.Json.dll
+D:\CUITTemp\LogBug\LogBug\LogBug\bin\Debug\System.Net.Http.Formatting.dll
+D:\CUITTemp\LogBug\LogBug\LogBug\bin\Debug\System.Web.Http.dll
+D:\CUITTemp\LogBug\LogBug\LogBug\bin\Debug\System.Net.Http.Formatting.xml
+D:\CUITTemp\LogBug\LogBug\LogBug\bin\Debug\System.Web.Http.xml
+D:\CUITTemp\LogBug\LogBug\LogBug\bin\Debug\Microsoft.WITDataStore.dll
+D:\CUITTemp\LogBug\LogBug\LogBug\obj\Debug\LogBug.exe
+D:\CUITTemp\LogBug\LogBug\LogBug\obj\Debug\LogBug.pdb
